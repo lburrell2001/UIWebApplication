@@ -54,7 +54,4 @@ Feel free to fork the repository and make your changes. Pull requests are welcom
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-
-- Inspiration and resources from various web development tutorials.
 
