@@ -1,5 +1,3 @@
-# UIWebApplication
-
 # Cloud Service Login UI
 
 A simple front-end user interface for simulating login to a cloud service, built with HTML, CSS, and JavaScript.
