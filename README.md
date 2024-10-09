@@ -1,6 +1,4 @@
 # UIWebApplication
-Here’s the README in Markdown format:
-
 ```markdown
 # Cloud Service Login UI
 
