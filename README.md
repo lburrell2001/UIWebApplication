@@ -57,6 +57,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - Inspiration and resources from various web development tutorials.
-```
 
-You can copy and paste this Markdown text into your `README.md` file in your project!
